@@ -1,7 +1,7 @@
 # Authentication settings
-#auth-service:          # ptc (default) or google
-#username:
-#password:
+#auth-service:          ptc
+#username:              Dickbuttftw
+#password:              killuwell1664
 
 # Database settings
 #db-type: sqlite        # sqlite (default) or mysql
@@ -20,7 +20,7 @@
 #step-limit:            # default 12
 
 # Misc
-#gmaps-key:             # your Google Maps API key
+#gmaps-key:             AIzaSyBJ6Ib7vuX90nGDayQUgMw3IoS3ZiyYmoI
 #webhook:               # webhook URL (including http://)
 
 # Webserver settings
